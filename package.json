@@ -1,8 +1,9 @@
 {
-	"name": "request_header",
-	"version": "0.0.1",
+	"name": "fcc-request_header",
+	"version": "1.0.0",
 	"description": "API project for freeCodeCamp",
 	"main": "server.js",
+	"author": "Rohit ambre, FCC",
 	"scripts": {
 		"start": "node server.js"
 	},
@@ -15,12 +16,13 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://hyperdev.com/#!/project/welcome-project"
+		"url": "https://github.com/rohit-ambre/fcc-headerparser.git"
 	},
 	"keywords": [
 		"node",
 		"hyperdev",
-		"express"
+		"express",
+		"freecodecamp"
 	],
 	"license": "MIT"
 }
